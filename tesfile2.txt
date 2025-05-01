@@ -1,1 +1,2 @@
 this is to demonstrate git merge
+adding new line to understand git merge conflicts
