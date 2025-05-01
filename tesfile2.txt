@@ -1,5 +1,10 @@
 this is to demonstrate git merge
+<<<<<<< HEAD
 adding new line to understand git merge conflicts
 merge conflict demo
 example for removing file from  staged
 adding 5th line
+=======
+merge conflict demo
+adding line 3
+>>>>>>> feature1
