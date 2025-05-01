@@ -1,2 +1,3 @@
 this is to demonstrate git merge
 merge conflict demo
+adding line 3
