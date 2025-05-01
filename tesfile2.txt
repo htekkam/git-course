@@ -2,3 +2,4 @@ this is to demonstrate git merge
 adding new line to understand git merge conflicts
 merge conflict demo
 example for removing file from  staged
+adding 5th line
